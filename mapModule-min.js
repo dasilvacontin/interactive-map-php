@@ -17,12 +17,24 @@ var nombresProvincia = []
 for (var provincia in provincias) nombresProvincia.push(provincia)
 nombresProvincia.sort()
 $(nombresProvincia).each(function (_, provincia) {
-  e.append('<h3>'+provincia+'</h3>')
+  var provinciaHTML = '<div class="provincia">'
+  provinciaHTML += '<h3>'+provincia+'</h3>'
   var list = '<ul>'
   $(provincias[provincia]).each(function (_, centro) {
-    list += '<li>' + centro + '</li>'
+    var match = /([^:]+):(.+)/.exec(centro)
+    if (!match) return list += '<li>' + centro + '</li>'
+    centro = $.trim(match[1])
+    var peeps = $.map(match[2].split(','), function (peep) {
+      peep = peep.split('-')
+      var profession = $.trim(peep[0])
+      profession = profession.substr(0,1).toUpperCase()+profession.substr(1)
+      peep = $.trim(peep[1])
+      return '<li>' + peep + ' (' + profession + ')</li>'
+    })
+    list += '<li>' + centro + '<ul>' + peeps.join('') + '</ul>'
   })
   list += '</ul>'
-  e.append(list)
+  provinciaHTML += list + '</div>'
+  e.append(provinciaHTML)
 })
 };addEventsToCommunities();console.log("mapModule loaded and executed!")})();console.log("End of spain_map.js");

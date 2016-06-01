@@ -75,8 +75,15 @@ body .interactive_map {
 	overflow: auto;
 }
 
-#mapContent ul {
+.provincia {
 	margin-bottom: 40px;
+}
+
+#mapContent ul {
+	margin-bottom: 10px;
+}
+#mapContent ul ul {
+  list-style-type: circle;
 }
 
 #mapContent p {
