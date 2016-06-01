@@ -71,7 +71,12 @@ body .interactive_map {
 	z-index:3;
 	position: relative;
 	max-height: 390px;
+	padding: 20px;
 	overflow: auto;
+}
+
+#mapContent ul {
+	margin-bottom: 40px;
 }
 
 #mapContent p {
