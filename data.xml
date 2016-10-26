@@ -5,13 +5,17 @@
 		<name>Andalucía</name>
 
 		<center>[Almería] Hospital Torrecárdenas : oncólogo - Dra. Piedad Reche Molina</center>
+
 		<center>[Cádiz] H. de Jerez : oncólogo - Dra. Mª Mar Gordon Santiago</center>
 		<center>[Cádiz] H. U. Puerta del Mar : oncólogo - Dr. José Antonio Contreras Ibáñez</center>
+
 		<center>[Córdoba] H. Reina Sofia de Córdoba : oncólogo - Dra. Mª Jesús Rubio Pérez</center>
-		<center>[Málaga] H. C. Virgen de la Victoria : oncólogo portavoz - Dr. Alfonso Sánchez* , oncólogo - Dra. Antonia Márquez , oncólogo - Dra. Bella Isabel Pajares, oncólogo - Dr. Lorenzo Alonso Carrión , ginecólogo - Dr. Luis González García , oncólogo - Dra. Mª José Bermejo , oncólogo - Dra. Begoña Jiménez</center>
-		<center>[Málaga] H. Materno Regional de Málaga : ginecólogo - Dr. Enrique Sáez</center>
-		<center>[Málaga] H. R. U. Carlos Haya : oncólogo portavoz - Dra. Carolina Muriel López* , oncólogo - Dr. Cristina García , oncólogo - Dr. Manuel Benavides Orgaz</center>
-		<center>[Sevilla] H. R. U. Carlos Haya : oncólogo portavoz - Dra. Carolina Muriel López* , oncólogo - Dr. Cristina García , oncólogo - Dr. Manuel Benavides Orgaz</center>
+
+				<center>[Málaga] H. R. U. Carlos Haya : oncólogo portavoz - Dra. Carolina Muriel López* , oncólogo - Dr. Cristina García , oncólogo - Dr. Manuel Benavides Orgaz</center>
+				<center>[Málaga] H. Materno Regional de Málaga : ginecólogo - Dr. Enrique Sáez</center>
+				<center>[Málaga] H. C. Virgen de la Victoria : oncólogo portavoz - Dr. Alfonso Sánchez* , oncólogo - Dra. Antonia Márquez , oncólogo - Dra. Bella Isabel Pajares, oncólogo - Dr. Lorenzo Alonso Carrión , ginecólogo - Dr. Luis González García , oncólogo - Dra. Mª José Bermejo , oncólogo - Dra. Begoña Jiménez</center>
+
+
 		<center>[Sevilla] H. U. Virgen de la Macarena : oncólogo - Dra.  Ana María Grueso , oncólogo portavoz - Dr. David Vicente Baz*</center>
 		<center>[Sevilla] H. Virgen de Valme de Sevilla : oncólogo - Dr. José Fuentes Pradera</center>
 		<center>[Sevilla] H. Virgen del Rocío : oncólogo portavoz - Dr. Elisa Calvo García* , oncólogo - Dr. Purificación Estévez</center>
@@ -59,20 +63,25 @@
 		<center>[Barcelona] Clínica Diagonal : oncólogo - Dr. Josep Mº del Campo Fornis</center>
 		<center>[Barcelona] Consorci Sanitari de Terrassa : oncólogo - Dra. Angels Arcusa Lanza</center>
 		<center>[Barcelona] Corp. Sanitària Clínic : oncólogo portavoz - Dra. Cecilia Orbegoso*, oncólogo - Dra. Laura Vidal, ginecólogo - Dr. Sergi Martínez</center>
-		<center>[Barcelona] Fundación Althaia : oncólogo - Dr. Jesús Montesinos Muñoz , oncólogo portavoz - Dra. Silvia Catot Tort*</center>
-		<center>[Barcelona] H. de la Santa Creu i Sant Pau : oncólogo - Dra. Cristina Arqueros , oncólogo portavoz - Dra. Cristina Martín Llorente* , oncólogo - Dra. Emanuela D'Angelo , ginecólogo - Dr. Ramón Rovira</center>
-		<center>[Barcelona] H. de Mataró : oncólogo - Dra. Susana Martínez Peralta</center>
-		<center>[Barcelona] H. de Sabadell Corporació Sanitària Parc Taulí : oncólogo - Dr. Jordi Antoni Vives , oncólogo portavoz - Dra. Yolanda García*</center>
-		<center>[Barcelona] H. del Mar : oncólogo - Dra. Gemma Mancebo</center>
-		<center>[Barcelona] H. G. de Granollers : oncólogo - Dra. Sara Cros</center>
-		<center>[Barcelona] H. General de Catalunya : oncólogo - Dra. Susana Casado Cobo</center>
-		<center>[Barcelona] H. Moises Broggi (General de Hospitalet) : oncólogo - Dra. Agostina Stradella , oncólogo portavoz - Dra. Alicia García Arias*</center>
-		<center>[Barcelona] H. Mutua de Terrassa : oncólogo - Dr. Julen Fernández Plana</center>
-		<center>[Barcelona] H. U. Vall d'Hebrón : oncólogo portavoz - Dra. Ana Oaknin Benzaquen*, oncólogo - Dr. Victor Rodríguez Freixinos, oncólogo - Dra. Lorena Fariñas</center>
 		<center>[Barcelona] ICO H. Duran i Reynals : oncólogo portavoz - Dra. Beatriz Pardo Burdalo* , ginecólogo - Dr. Jordi Ponce , oncólogo - Dra. Marta Gil Martín</center>
+		<center>[Barcelona] H. El Pilar Quirón Salud : ginecólogo - Dr. Juan José Torrent</center>
+		<center>[Barcelona] Fundación Althaia : oncólogo - Dr. Jesús Montesinos Muñoz , oncólogo portavoz - Dra. Silvia Catot Tort*</center>
+
 		<center>[Barcelona] ICO H. Germans Trias i Pujol : oncólogo - Dra. Margarita Romeo Marín</center>
 		<center>[Barcelona] Instituto Universitario USP Dexeus : oncólogo - Dr. Alejandro Martínez Bueno</center>
-		<center>[Barcelona] Dr.Juan José Torrent (Ginecólogo)</center>
+		<center>[Barcelona] H. General de Catalunya : oncólogo - Dra. Susana Casado Cobo</center>
+		<center>[Barcelona] H. G. de Granollers : oncólogo - Dra. Sara Cros</center>
+
+		<center>[Barcelona] H. del Mar : oncólogo - Dra. Gemma Mancebo</center>
+		<center>[Barcelona] H. de Mataró : oncólogo - Dra. Susana Martínez Peralta</center>
+		<center>[Barcelona] H. Moises Broggi (General de Hospitalet) : oncólogo - Dra. Agostina Stradella , oncólogo portavoz - Dra. Alicia García Arias*</center>
+		<center>[Barcelona] H. Mutua de Terrassa : oncólogo - Dr. Julen Fernández Plana</center>
+		<center>[Barcelona] H. de Sabadell Corporació Sanitària Parc Taulí : oncólogo - Dr. Jordi Antoni Vives , oncólogo portavoz - Dra. Yolanda García*</center>
+		<center>[Barcelona] H. de la Santa Creu i Sant Pau : oncólogo - Dra. Cristina Arqueros , oncólogo portavoz - Dra. Cristina Martín Llorente* , oncólogo - Dra. Emanuela D'Angelo , ginecólogo - Dr. Ramón Rovira</center>
+		<center>[Barcelona] H. U. Vall d'Hebrón : oncólogo portavoz - Dra. Ana Oaknin Benzaquen*, oncólogo - Dr. Victor Rodríguez Freixinos, oncólogo - Dra. Lorena Fariñas</center>
+
+
+
 		<center>[Gerona (Girona)] ICO H. Doctor Josep Trueta : ginecólogo - Dra. Mª Elena Álvarez Castaño , oncólogo portavoz - Dra. Mª Pilar Barretina*</center>
 		<center>[Lérida (Lleida)] H. Arnau de Vilanova Lleida : ginecólogo - Dr. Christian Sisó , oncólogo - Dra. Mª Eugenia Ortega Izquierdo , patólogo - Dr. Xavier Matías-Guiu Guia</center>
 		<center>[Tarragona] H. Sant Joan de Reus : oncólogo - Dra. Dolors Martín , oncólogo - Dra. Isabel Ruiz</center>
@@ -89,24 +98,25 @@
 
 		<center>[Madrid] Centro Oncológico Integral Clara Campal : oncólogo - Dr. Jesús García Donas</center>
 		<center>[Madrid] Centro Oncológico M.D. Anderson España : oncólogo portavoz - Dr. Antonio González Martín* , ginecólogo - Dr. Luis Chiva , oncólogo - Dr. Raúl Márquez Vázquez , ginecólogo - Dra. Sonsoles Alonso</center>
+		<center>[Madrid] H. U. 12 de Octubre : oncólogo portavoz - Dr. César Mendiola* , oncólogo - Dra. Katerin Ingrid Rojas , oncólogo - Dr. Luis Manso</center>
 		<center>[Madrid] Fundación Jiménez Díaz. Clínica Ntra.Sra.de la Concepción : oncólogo - Dra. Victoria Casado Echarren</center>
-		<center>[Madrid] H. C. San Carlos : oncólogo portavoz - Dr. Antonio Casado Herráez* , oncólogo - Dra. Aránzazu Manzano</center>
-		<center>[Madrid] H. de Móstoles : oncólogo - Dra. Silvia García Adrián</center>
-		<center>[Madrid] H. G. U. Gregorio Marañón : ginecólogo - Dra. Elsa  Mendizábal , oncólogo - Dr. José Angel Arranz</center>
-		<center>[Madrid] H. Infanta Cristina : oncólogo - Dra. Esperanza Blanca Campanario</center>
-		<center>[Madrid] H. Infanta Sofía : oncólogo - Dr. César Gómez Raposo</center>
-		<center>[Madrid] H. La Princesa : oncólogo - Dra. Ana Collazo , oncólogo - Dr. Tomás Pascual Martínez</center>
-		<center>[Madrid] H. La Zarzuela : oncólogo - Dra. Concha Fernández-Chacón de Lucas</center>
-		<center>[Madrid] H. Ramón y Cajal : ginecólogo - Dr. Enrique Moratalla , oncólogo portavoz - Dra. Eva Guerra* , patólogo - Dr. José Palacios Calvo</center>
-		<center>[Madrid] H. Ruber Internacional : oncólogo - Dr. José  Enrique Alés</center>
-		<center>[Madrid] H. U. 12 de Octubre : oncólogo portavoz - Dr. César Mendiola* , Dra. Katerin Ingrid Rojas , oncólogo - Dr. Luis Manso</center>
-		<center>[Madrid] H. U. de Torrejón : oncólogo - Dr. Parham Khosravi</center>
+		<center>[Madrid] H.U. de Fuenlabrada : oncólogo - Dra. Julia Calzas</center>
 		<center>[Madrid] H. U. Fundación Alcorcón : oncólogo - Dra. Susana Hernando Polo</center>
+		<center>[Madrid] H. G. U. Gregorio Marañón : ginecólogo - Dra. Elsa  Mendizábal , oncólogo - Dr. José Angel Arranz</center>
+
+		<center>[Madrid] H. Infanta Cristina : oncólogo - Dra. Esperanza Blanca Campanario</center>
+		<center>[Madrid] H.U. Infanta Leonor : oncólogo - Dra. Almudena Martín Marino</center>
+		<center>[Madrid] H. Infanta Sofía : oncólogo - Dr. César Gómez Raposo</center>
+		<center>[Madrid] H. de Móstoles : oncólogo - Dra. Silvia García Adrián</center>
 		<center>[Madrid] H. U. La Paz : oncólogo portavoz - Dr. Andrés Redondo Sánchez* , biólogo - Dra. Marta Mendiola Sabio</center>
+		<center>[Madrid] H. La Princesa : oncólogo portavoz - Dra. Ana Collazo* , oncólogo - Dr. Tomás Pascual Martínez</center>
 		<center>[Madrid] H. U. Puerta de Hierro : oncólogo portavoz - Dra. Constanza Maximiano Alonso* , oncólogo - Dra. Lourdes  Gutiérrez</center>
 		<center>[Madrid] H. U. Quirón Madrid : oncólogo - Dra. Lucía González Cortijo</center>
-		<center>[Madrid] H.U. de Fuenlabrada : oncólogo - Dra. Julia Calzas</center>
-		<center>[Madrid] H.U. Infanta Leonor : oncólogo - Dra. Almudena Martín Marino</center>
+		<center>[Madrid] H. Ramón y Cajal : ginecólogo - Dr. Enrique Moratalla , oncólogo portavoz - Dra. Eva Guerra* , patólogo - Dr. José Palacios Calvo</center>
+		<center>[Madrid] H. Ruber Internacional : oncólogo - Dr. José  Enrique Alés</center>
+		<center>[Madrid] H. C. San Carlos : oncólogo portavoz - Dr. Antonio Casado Herráez* , oncólogo - Dra. Aránzazu Manzano</center>
+		<center>[Madrid] H. U. de Torrejón : oncólogo - Dr. Parham Khosravi</center>
+		<center>[Madrid] H. La Zarzuela : oncólogo - Dra. Concha Fernández-Chacón de Lucas</center>
 	</madrid>
 
 	<navarra>
@@ -118,29 +128,32 @@
 
 	<valencia>
 	  <name>Comunidad Valenciana</name>
-
-		<center>[Alicante] H. de San Juan de Alicante : oncólogo - Dra. Aurelia  Bustos</center>
-		<center>[Alicante] H. de Torrevieja : oncólogo - Dr. José David Cumplido</center>
 		<center>[Alicante] H. G. U. d´Alacant : oncólogo - Dra. Ana Yuste , oncólogo - Dr. Antonio López Jiménez , oncólogo portavoz - Dr. José Ponce Lorenzo*</center>
+		<center>[Alicante] H.G. De Elda : oncólogo - Dra. Sonia Macià Escalante</center>
 		<center>[Alicante] H. G. U. Elche : oncólogo portavoz - Dra. Ana Beatriz Sanchez Heras* , oncólogo - Dra. Teresa Quintanar</center>
 		<center>[Alicante] H. Lluis Alcanyis : oncólogo - Dra. Regina Gironés Sarrió</center>
-		<center>[Alicante] H.G. De Elda : oncólogo - Dra. Sonia Macià Escalante</center>
+		<center>[Alicante] H. de San Juan de Alicante : oncólogo - Dra. Aurelia  Bustos</center>
+		<center>[Alicante] H. de Torrevieja : oncólogo - Dr. José David Cumplido</center>
+
   	<center>[Castellón de la Plana] H. G. de Castellón : oncólogo - Dra. Ángeles López Rodríguez , ginecólogo - Dr. J. Antonio Llueca , ginecólogo - Dr. J. Luis Herráiz</center>
 		<center>[Castellón de la Plana] H. Provincial de Castellón : oncólogo - Dra. Nuria Ruiz</center>
-		<center>[Valencia] Consorcio H. G. U. Valencia : oncólogo portavoz - Dra. Cristina Caballero Díaz*</center>
-		<center>[Valencia] Fundación Instituto Valenciano de Oncología : oncólogo portavoz - Dr. Andrés Poveda Velasco* , ginecólogo - Dra. Cristina Zorrero , Dr. Enrique García García, oncólogo - Dr. Ignacio Romero , biólogo - Dr. José Antonio López Guerrero , ginecólogo - Dr. Lucas Minig , ginecólogo - Dr. Pedro Martínez Castro</center>
+
 		<center>[Valencia] H. Arnau de Vilanova Valencia : oncólogo portavoz - Dr. Enrique Cabrera Espinós*</center>
 		<center>[Valencia] H. Clínico Universitario de Valencia : oncólogo - Dr. Andrés Cervantes , oncólogo portavoz - Dr. José Alejandro Pérez-Fidalgo*</center>
-		<center>[Valencia] H. de Sagunto : oncólogo - Dra. Judith Ramírez</center>
+		<center>[Valencia] Consorcio H. G. U. Valencia : oncólogo portavoz - Dra. Cristina Caballero Díaz*</center>
 		<center>[Valencia] H. U. Dr. Peset : oncólogo - Dr. Miguel Corbellas</center>
+		<center>[Valencia] Fundación Instituto Valenciano de Oncología : oncólogo portavoz - Dr. Andrés Poveda Velasco* , ginecólogo - Dra. Cristina Zorrero , Dr. Enrique García García, oncólogo - Dr. Ignacio Romero , biólogo - Dr. José Antonio López Guerrero , ginecólogo - Dr. Lucas Minig , ginecólogo - Dr. Pedro Martínez Castro</center>
 		<center>[Valencia] H. U. La Fe de Valencia : oncólogo portavoz - Dra. Ana Santaballa Bertrán* , ginecólogo - Dr. Santiago Domingo del Pozo</center>
+		<center>[Valencia] H. de Sagunto : oncólogo - Dra. Judith Ramírez</center>
+
+
 	</valencia>
 
 	<extremadura>
 	  <name>Extremadura</name>
-
-		<center>[Badajoz] Complejo H. U. de Badajoz : oncólogo - Dr. Ignacio Delgado Mignorance</center>
 		<center>[Badajoz] H. Infanta Cristina de Badajoz : oncólogo - Dr. María Teresa Jaraquemada</center>
+		<center>[Badajoz] Complejo H. U. de Badajoz : oncólogo - Dr. Ignacio Delgado Mignorance</center>
+
 	  <center>[Cáceres] H. San Pedro de Alcántara : oncólogo portavoz - Dra. Maria Helena López de Ceballos Reyna* , oncólogo - Dr. Santiago González Santiago</center>
 	</extremadura>
 
@@ -148,12 +161,11 @@
 	  <name>Galicia</name>
 
   	<center>[La Coruña (A Coruña)] Centro Oncológico de Galicia : oncólogo - Dr. Margarita Amenedo</center>
-		<center>[La Coruña (A Coruña)] Complejo H.U. de A Coruña : ginecólogo - Dr. José Manuel García-Consuegra , oncólogo portavoz - Dra. María Quindós* , oncólogo - Dra. María Begoña Cid Prol , ginecólogo - Dr. Pedro Rodríguez</center>
+		<center>[La Coruña (A Coruña)] Complejo H.U. de A Coruña : ginecólogo - Dr. José Manuel García-Consuegra , oncólogo portavoz - Dra. María Quindós* , oncóloga - Dra. María Begoña Cid Prol , ginecólogo - Dr. Pedro Rodríguez , oncóloga - Dra. Ana Corporales</center>
 		<center>[La Coruña (A Coruña)] H. C. U. de Santiago de Compostela : oncólogo - Dr. Juan Fernando Cueva</center>
-		<center>[La Coruña (A Coruña)] Dra. Ana Corporales (Oncóloga)</center>
   	<center>[Lugo] H. U. Lucus Augusti : oncólogo - Dra. Silvia Varela</center>
-  	<center>[Pontevedra] C.Hosp. de Pontevedra : oncólogo portavoz - Dra. María Lidia Vázquez Tuñas*</center>
 		<center>[Pontevedra] H.U. Alvaro Cunqueiro : oncólogo - Dra. Isaura Fernandez Perez</center>
+		<center>[Pontevedra] C.Hosp. de Pontevedra : oncólogo portavoz - Dra. María Lidia Vázquez Tuñas*</center>
 	</galicia>
 
 	<baleares>

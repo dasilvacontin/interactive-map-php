@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<regions>
+
+	<andalucia>
+		<name>Andalucía</name>
+
+		<center>[Almería] Hospital Torrecárdenas : oncologist - Dra. Piedad Reche Molina</center>
+
+		<center>[Cádiz] H. de Jerez : oncologist - Dra. Mª Mar Gordon Santiago</center>
+		<center>[Cádiz] H. U. Puerta del Mar : oncologist - Dr. José Antonio Contreras Ibáñez</center>
+
+		<center>[Córdoba] H. Reina Sofia de Córdoba : oncologist - Dra. Mª Jesús Rubio Pérez</center>
+
+				<center>[Málaga] H. R. U. Carlos Haya : oncologist spokesman - Dra. Carolina Muriel López* , oncologist - Dr. Cristina García , oncologist - Dr. Manuel Benavides Orgaz</center>
+				<center>[Málaga] H. Materno Regional de Málaga : gynecologist - Dr. Enrique Sáez</center>
+				<center>[Málaga] H. C. Virgen de la Victoria : oncologist spokesman - Dr. Alfonso Sánchez* , oncologist - Dra. Antonia Márquez , oncologist - Dra. Bella Isabel Pajares, oncologist - Dr. Lorenzo Alonso Carrión , gynecologist - Dr. Luis González García , oncologist - Dra. Mª José Bermejo , oncologist - Dra. Begoña Jiménez</center>
+
+
+		<center>[Sevilla] H. U. Virgen de la Macarena : oncologist - Dra.  Ana María Grueso , oncologist spokesman - Dr. David Vicente Baz*</center>
+		<center>[Sevilla] H. Virgen de Valme de Sevilla : oncologist - Dr. José Fuentes Pradera</center>
+		<center>[Sevilla] H. Virgen del Rocío : oncologist spokesman - Dr. Elisa Calvo García* , oncologist - Dr. Purificación Estévez</center>
+	</andalucia>
+
+	<aragon>
+		<name>Aragón</name>
+
+		<center>[Teruel] Hospital de Alcañiz : oncologist - Dra. Mónica Corral</center>
+  	<center>[Zaragoza] H. C. U. Lozano Blesa : oncologist spokesman - Dra. Alfonso Yubero* , oncologist - Dr. Eduardo Pujol , oncologist - Dra. Raquel Andrés</center>
+		<center>[Zaragoza] H. U. Miguel Servet : oncologist - Dra. Ana Herrero Ibáñez</center>
+	</aragon>
+
+	<canarias>
+		<name>Canarias</name>
+
+		<center>[Las Palmas] H. Insular de Gran Canaria : oncologist - Dra. Amina Lubrano , oncologist spokesman - Dr. Fernando Molano Criollo* , pathologist - Dr. Miguel Andújar , oncologist - Dr. Octavio Arencibia</center>
+		<center>[Las Palmas] H. U. de Gran Canaria Dr. Negrín : oncologist spokesman - Dra. Marta Mori de Santiago* , oncologist - Dr. Uriel Bohn Sarmiento</center>
+  	<center>[Sta. Cruz de Tenerife] H. U. Nuestra Señora de la Candelaria : oncologist -  Mª Luisa  Soriano , oncologist spokesman - Dr. Raúl Eduardo Amurrio Quevedo*</center>
+	</canarias>
+
+	<cantabria>
+  	<name>Cantabria</name>
+
+		<center>[Cantabria] H. U. Marqués de Valdecilla : oncologist - Dra. Ana de Juan Ferré</center>
+	</cantabria>
+
+	<castilla_la_mancha>
+		<name>Castilla La Mancha</name>
+
+		<center>[Guadalajara] H. G. de Guadalajara : oncologist - Dr. Javier Cassinello Espinosa</center>
+  	<center>[Toledo] H. Virgen de la Salud : oncologist - Dra. Mª del Carmen Esteban Esteban</center>
+	</castilla_la_mancha>
+
+	<castilla_leon>
+	  <name>Castilla y León</name>
+
+		<center>[Salamanca] H. C. U. de Salamanca : oncologist - Dra. Amalia Gómez Bernal</center>
+  	<center>[Valladolid] H. Clínico de Valladolid : oncologist - Dra. Beatriz Peláez</center>
+	</castilla_leon>
+
+	<catalunya>
+  	<name>Cataluña</name>
+
+		<center>[Barcelona] Clínica Diagonal : oncologist - Dr. Josep Mº del Campo Fornis</center>
+		<center>[Barcelona] Consorci Sanitari de Terrassa : oncologist - Dra. Angels Arcusa Lanza</center>
+		<center>[Barcelona] Corp. Sanitària Clínic : oncologist spokesman - Dra. Cecilia Orbegoso*, oncologist - Dra. Laura Vidal, gynecologist - Dr. Sergi Martínez</center>
+		<center>[Barcelona] ICO H. Duran i Reynals : oncologist spokesman - Dra. Beatriz Pardo Burdalo* , gynecologist - Dr. Jordi Ponce , oncologist - Dra. Marta Gil Martín</center>
+		<center>[Barcelona] H. El Pilar Quirón Salud : gynecologist - Dr. Juan José Torrent</center>
+		<center>[Barcelona] Fundación Althaia : oncologist - Dr. Jesús Montesinos Muñoz , oncologist spokesman - Dra. Silvia Catot Tort*</center>
+
+		<center>[Barcelona] ICO H. Germans Trias i Pujol : oncologist - Dra. Margarita Romeo Marín</center>
+		<center>[Barcelona] Instituto Universitario USP Dexeus : oncologist - Dr. Alejandro Martínez Bueno</center>
+		<center>[Barcelona] H. General de Catalunya : oncologist - Dra. Susana Casado Cobo</center>
+		<center>[Barcelona] H. G. de Granollers : oncologist - Dra. Sara Cros</center>
+
+		<center>[Barcelona] H. del Mar : oncologist - Dra. Gemma Mancebo</center>
+		<center>[Barcelona] H. de Mataró : oncologist - Dra. Susana Martínez Peralta</center>
+		<center>[Barcelona] H. Moises Broggi (General de Hospitalet) : oncologist - Dra. Agostina Stradella , oncologist spokesman - Dra. Alicia García Arias*</center>
+		<center>[Barcelona] H. Mutua de Terrassa : oncologist - Dr. Julen Fernández Plana</center>
+		<center>[Barcelona] H. de Sabadell Corporació Sanitària Parc Taulí : oncologist - Dr. Jordi Antoni Vives , oncologist spokesman - Dra. Yolanda García*</center>
+		<center>[Barcelona] H. de la Santa Creu i Sant Pau : oncologist - Dra. Cristina Arqueros , oncologist spokesman - Dra. Cristina Martín Llorente* , oncologist - Dra. Emanuela D'Angelo , gynecologist - Dr. Ramón Rovira</center>
+		<center>[Barcelona] H. U. Vall d'Hebrón : oncologist spokesman - Dra. Ana Oaknin Benzaquen*, oncologist - Dr. Victor Rodríguez Freixinos, oncologist - Dra. Lorena Fariñas</center>
+
+
+
+		<center>[Gerona (Girona)] ICO H. Doctor Josep Trueta : gynecologist - Dra. Mª Elena Álvarez Castaño , oncologist spokesman - Dra. Mª Pilar Barretina*</center>
+		<center>[Lérida (Lleida)] H. Arnau de Vilanova Lleida : gynecologist - Dr. Christian Sisó , oncologist - Dra. Mª Eugenia Ortega Izquierdo , pathologist - Dr. Xavier Matías-Guiu Guia</center>
+		<center>[Tarragona] H. Sant Joan de Reus : oncologist - Dra. Dolors Martín , oncologist - Dra. Isabel Ruiz</center>
+		<center>[Tarragona] H. Sant Pau i Santa Tecla de Tarragona : oncologist - Dra. Cristina Perez Segura</center>
+		<center>[Tarragona] H. Verge de la Cinta de Tortosa : oncologist - Dra. Valerie Rodríguez</center>
+	</catalunya>
+
+	<ceuta>
+		<name>Ceuta</name>
+	</ceuta>
+
+	<madrid>
+		<name>Comunidad de Madrid</name>
+
+		<center>[Madrid] Centro Oncológico Integral Clara Campal : oncologist - Dr. Jesús García Donas</center>
+		<center>[Madrid] Centro Oncológico M.D. Anderson España : oncologist spokesman - Dr. Antonio González Martín* , gynecologist - Dr. Luis Chiva , oncologist - Dr. Raúl Márquez Vázquez , gynecologist - Dra. Sonsoles Alonso</center>
+		<center>[Madrid] H. U. 12 de Octubre : oncologist spokesman - Dr. César Mendiola* , oncologist - Dra. Katerin Ingrid Rojas , oncologist - Dr. Luis Manso</center>
+		<center>[Madrid] Fundación Jiménez Díaz. Clínica Ntra.Sra.de la Concepción : oncologist - Dra. Victoria Casado Echarren</center>
+		<center>[Madrid] H.U. de Fuenlabrada : oncologist - Dra. Julia Calzas</center>
+		<center>[Madrid] H. U. Fundación Alcorcón : oncologist - Dra. Susana Hernando Polo</center>
+		<center>[Madrid] H. G. U. Gregorio Marañón : gynecologist - Dra. Elsa  Mendizábal , oncologist - Dr. José Angel Arranz</center>
+
+		<center>[Madrid] H. Infanta Cristina : oncologist - Dra. Esperanza Blanca Campanario</center>
+		<center>[Madrid] H.U. Infanta Leonor : oncologist - Dra. Almudena Martín Marino</center>
+		<center>[Madrid] H. Infanta Sofía : oncologist - Dr. César Gómez Raposo</center>
+		<center>[Madrid] H. de Móstoles : oncologist - Dra. Silvia García Adrián</center>
+		<center>[Madrid] H. U. La Paz : oncologist spokesman - Dr. Andrés Redondo Sánchez* , biólogo - Dra. Marta Mendiola Sabio</center>
+		<center>[Madrid] H. La Princesa : oncologist spokesman - Dra. Ana Collazo* , oncologist - Dr. Tomás Pascual Martínez</center>
+		<center>[Madrid] H. U. Puerta de Hierro : oncologist spokesman - Dra. Constanza Maximiano Alonso* , oncologist - Dra. Lourdes  Gutiérrez</center>
+		<center>[Madrid] H. U. Quirón Madrid : oncologist - Dra. Lucía González Cortijo</center>
+		<center>[Madrid] H. Ramón y Cajal : gynecologist - Dr. Enrique Moratalla , oncologist spokesman - Dra. Eva Guerra* , pathologist - Dr. José Palacios Calvo</center>
+		<center>[Madrid] H. Ruber Internacional : oncologist - Dr. José  Enrique Alés</center>
+		<center>[Madrid] H. C. San Carlos : oncologist spokesman - Dr. Antonio Casado Herráez* , oncologist - Dra. Aránzazu Manzano</center>
+		<center>[Madrid] H. U. de Torrejón : oncologist - Dr. Parham Khosravi</center>
+		<center>[Madrid] H. La Zarzuela : oncologist - Dra. Concha Fernández-Chacón de Lucas</center>
+	</madrid>
+
+	<navarra>
+	  <name>Comunidad Foral de Navarra</name>
+
+		<center>[Navarra] Clínica Universitaria de Navarra : oncologist - Dr. Jaime Espinós , oncologist spokesman - Dra. José Manuel Aramendía * , gynecologist - Dr. Matías Jurado</center>
+		<center>[Navarra] H. de Navarra : oncologist - Dra. Mª José Lecumberri , oncologist spokesman - Dra. Nuria Lainez Milagro*</center>
+	</navarra>
+
+	<valencia>
+	  <name>Comunidad Valenciana</name>
+		<center>[Alicante] H. G. U. d´Alacant : oncologist - Dra. Ana Yuste , oncologist - Dr. Antonio López Jiménez , oncologist spokesman - Dr. José Ponce Lorenzo*</center>
+		<center>[Alicante] H.G. De Elda : oncologist - Dra. Sonia Macià Escalante</center>
+		<center>[Alicante] H. G. U. Elche : oncologist spokesman - Dra. Ana Beatriz Sanchez Heras* , oncologist - Dra. Teresa Quintanar</center>
+		<center>[Alicante] H. Lluis Alcanyis : oncologist - Dra. Regina Gironés Sarrió</center>
+		<center>[Alicante] H. de San Juan de Alicante : oncologist - Dra. Aurelia  Bustos</center>
+		<center>[Alicante] H. de Torrevieja : oncologist - Dr. José David Cumplido</center>
+
+  	<center>[Castellón de la Plana] H. G. de Castellón : oncologist - Dra. Ángeles López Rodríguez , gynecologist - Dr. J. Antonio Llueca , gynecologist - Dr. J. Luis Herráiz</center>
+		<center>[Castellón de la Plana] H. Provincial de Castellón : oncologist - Dra. Nuria Ruiz</center>
+
+		<center>[Valencia] H. Arnau de Vilanova Valencia : oncologist spokesman - Dr. Enrique Cabrera Espinós*</center>
+		<center>[Valencia] H. Clínico Universitario de Valencia : oncologist - Dr. Andrés Cervantes , oncologist spokesman - Dr. José Alejandro Pérez-Fidalgo*</center>
+		<center>[Valencia] Consorcio H. G. U. Valencia : oncologist spokesman - Dra. Cristina Caballero Díaz*</center>
+		<center>[Valencia] H. U. Dr. Peset : oncologist - Dr. Miguel Corbellas</center>
+		<center>[Valencia] Fundación Instituto Valenciano de Oncología : oncologist spokesman - Dr. Andrés Poveda Velasco* , gynecologist - Dra. Cristina Zorrero , Dr. Enrique García García, oncologist - Dr. Ignacio Romero , biólogo - Dr. José Antonio López Guerrero , gynecologist - Dr. Lucas Minig , gynecologist - Dr. Pedro Martínez Castro</center>
+		<center>[Valencia] H. U. La Fe de Valencia : oncologist spokesman - Dra. Ana Santaballa Bertrán* , gynecologist - Dr. Santiago Domingo del Pozo</center>
+		<center>[Valencia] H. de Sagunto : oncologist - Dra. Judith Ramírez</center>
+
+
+	</valencia>
+
+	<extremadura>
+	  <name>Extremadura</name>
+		<center>[Badajoz] H. Infanta Cristina de Badajoz : oncologist - Dr. María Teresa Jaraquemada</center>
+		<center>[Badajoz] Complejo H. U. de Badajoz : oncologist - Dr. Ignacio Delgado Mignorance</center>
+
+	  <center>[Cáceres] H. San Pedro de Alcántara : oncologist spokesman - Dra. Maria Helena López de Ceballos Reyna* , oncologist - Dr. Santiago González Santiago</center>
+	</extremadura>
+
+	<galicia>
+	  <name>Galicia</name>
+
+  	<center>[La Coruña (A Coruña)] Centro Oncológico de Galicia : oncologist - Dr. Margarita Amenedo</center>
+		<center>[La Coruña (A Coruña)] Complejo H.U. de A Coruña : gynecologist - Dr. José Manuel García-Consuegra , oncologist spokesman - Dra. María Quindós* , oncóloga - Dra. María Begoña Cid Prol , gynecologist - Dr. Pedro Rodríguez , oncóloga - Dra. Ana Corporales</center>
+		<center>[La Coruña (A Coruña)] H. C. U. de Santiago de Compostela : oncologist - Dr. Juan Fernando Cueva</center>
+  	<center>[Lugo] H. U. Lucus Augusti : oncologist - Dra. Silvia Varela</center>
+		<center>[Pontevedra] H.U. Alvaro Cunqueiro : oncologist - Dra. Isaura Fernandez Perez</center>
+		<center>[Pontevedra] C.Hosp. de Pontevedra : oncologist spokesman - Dra. María Lidia Vázquez Tuñas*</center>
+	</galicia>
+
+	<baleares>
+  	<name>Islas Baleares</name>
+
+  	<center>[Islas Baleares] H. Son Espases : oncologist - Dra. Arancha González del Alba , oncologist spokesman - Dr. Jesús Alarcón*</center>
+		<center>[Islas Baleares] H. Son Llàtzer : gynecologist - Dr. Albert  Reyes , oncologist - Dra. Isabel Bover Barceló</center>
+	</baleares>
+
+	<larioja>
+	  <name>La Rioja</name>
+	</larioja>
+
+	<melilla>
+  	<name>Melilla</name>
+	</melilla>
+
+	<euskadi>
+  	<name>País Vasco</name>
+
+	  <center>[Guipúzcoa (Gipuzkoa)] H. Donostia : oncologist - Dra. Ana Paisán , oncologist spokesman - Dra. Cristina María Churruca* , gynecologist - Dr. Ibon Jaunarena  , oncologist - Dra. Isabel  Alvarez , gynecologist - Dr. Mikel Gorostidi , oncologist - Dra. Nerea  Ancizar</center>
+		<center>[Guipúzcoa (Gipuzkoa)] Instituto Onkologikoa : oncologist - Dra. Karmele Mujika Eizmendi</center>
+  	<center>[Vizcaya (Bizkaia)] H. de Basurto : oncologist - Dra. María Gutiérrez</center>
+		<center>[Vizcaya (Bizkaia)] Hosp. de Galdakao-Usansolo : oncologist spokesman - Dra. Isabela Díaz Corcuera*</center>
+	</euskadi>
+
+	<asturias>
+	  <name>Principado de Asturias</name>
+
+		<center>[Asturias] H. Alvarez Buylla : gynecologist - Dr. Ángel Sánchez del Río</center>
+		<center>[Asturias] H. Central de Asturias : oncologist - Dra. Isabel Palacio Vázquez</center>
+	</asturias>
+
+	<murcia>
+	  <name>Región de Murcia</name>
+
+		<center>[Murcia] H. G. U. Morales Meseguer : oncologist spokesman - Dra. María Elena García Martínez*</center>
+		<center>[Murcia] H. U. Santa Lucía : oncologist - Dra. Mª Isabel Luengo , oncologist spokesman - Dra. Edith Rodríguez* , oncologist - Dra. Paola Patricia Pimentel</center>
+		<center>[Murcia] H. U. Virgen de la Arrixaca : oncologist - Dr. Jerónimo Martinez García</center>
+	</murcia>
+
+	<mapa_mundi>
+	  <name>Other Countries</name>
+
+		<center>[Argentina - Ciudad Autónoma de Buenos Aires] Dr. Gustavo Jankilevich</center>
+		<center>[Chile - Santiago] Dr. Carlos Regonessi</center>
+  	<center>[Cuba - La Habana] Dr. Alejandro Linchenat Lambert</center>
+		<center>[Peru - Surquillo - Lima] Dr. Pedro Richard Aguilar Ramos</center>
+	</mapa_mundi>
+</regions>
