@@ -25,11 +25,11 @@ body .interactive_map {
 	width:90%;
 	max-width: 700px;
 	margin:auto;
-	padding: 20px 0px 20px;
+	padding: 20px 0px 0px;
 }
 
 #mapModule {
-	margin: 50px 0px 50px;
+	margin: 50px 0px 0px;
 }
 
 #mapWrapper {
@@ -53,10 +53,10 @@ body .interactive_map {
 }
 
 #mapTitle {
-	background-color: #3A647A;
+	background-color: #55adbd;
 	display: table;
 	width: 100%;
-	height: 50px;
+	height: 40px;
 }
 
 #mapTitle p {
@@ -76,15 +76,20 @@ body .interactive_map {
 }
 
 .provincia {
-	margin-bottom: 40px;
+	margin-bottom: 20px;
 }
 
-#mapContent ul {
-	margin-bottom: 10px;
+
+#mapContent ul li {
+    margin-bottom: 0px;
+    margin-top: -10px;
 }
+
 #mapContent ul ul {
   list-style-type: circle;
+margin-bottom: 10px;
 }
+
 
 #mapContent p {
 	font-size: 18px;
@@ -114,4 +119,30 @@ body .interactive_map {
 	width: 20px;
 	height: 20px;
 	padding: 15px;
+}
+
+svg path[stroke="#ffffff"] {
+    cursor: pointer;
+}
+
+h3 {
+font-size: 16px;
+margin-bottom:20px;
+}
+
+.provincia h3 {
+color: #9c2e4b;
+}
+.provincia li {
+font-size: 13px;
+}
+
+ul.disc, .entry-content-wrapper ul {
+    list-style: none;
+}
+
+ul.leyenda li     {
+    margin-bottom: 0px;
+    margin-top: -80px;
+    padding-left: 60px;
 }
