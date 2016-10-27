@@ -146,3 +146,14 @@ ul.leyenda li     {
     margin-top: -80px;
     padding-left: 60px;
 }
+
+p.interactive_map__footer_label {
+	position: absolute;
+
+	font-size: 12px;
+	font-family: Tahoma;
+	line-height: 30px;
+	text-align: center;
+	text-transform: uppercase;
+	color: white;
+}

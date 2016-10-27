@@ -17,6 +17,14 @@ function interactive_map_handler( $atts ) {
   <div id="mapWrapper" style="display: block;">
 		<img src="<?php echo $atts["logo"]; ?>" id="mapLogo" width="190">
     <div id="rsr" mapcolor="<?php echo $atts["mapcolor"]; ?>"></div>
+    <p class="interactive_map__footer_label"
+       style="width: 192px; bottom: 0; left: -1px">
+       centros internacionales
+    </p>
+    <p class="interactive_map__footer_label"
+       style="width: 500px; bottom: 0; left: 192px">
+       centros participantes en españa
+    </p>
   </div>
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script><br>
 	<script src="/wp-content/plugins/interactive_map/xmlfunctions-min.js"></script><br>
