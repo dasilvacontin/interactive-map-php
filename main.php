@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Interactive Map
-Version: 0.1.0
+Version: 0.1.1
 Author: dasilvacontin
 Author URI: http://dasilvacont.in
 Text Domain: interactive-map
